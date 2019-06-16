@@ -1,0 +1,13 @@
+# Ignore all
+*
+
+# Except for advanced tracking rules
+!*/
+
+# Track specific files
+!.gitignore
+!.gitmodules
+
+# Specific ignore cases
+*.DS_Store
+**/build/**
